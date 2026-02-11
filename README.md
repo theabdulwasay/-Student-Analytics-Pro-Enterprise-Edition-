@@ -104,13 +104,17 @@ graph TD
 
 <div align="center">
   <h3>Professional Dashboard</h3>
-  <img src="https://via.placeholder.com/800x450/0f172a/6366f1?text=Analytics+Dashboard+Preview" alt="Dashboard" />
+<img width="1919" height="881" alt="Screenshot 2026-02-11 095345" src="https://github.com/user-attachments/assets/479e1aef-c6ba-432f-be7f-fecc46926536" /><img width="1886" height="194" alt="Screenshot 2026-02-11 095629" src="https://github.com/user-attachments/assets/68a9ac57-0ff8-491e-8879-601d1f49447f" />
+<img width="1901" height="884" alt="Screenshot 2026-02-11 095605" src="https://github.com/user-attachments/assets/4b14263d-7743-45cf-ad4c-7fa60a5f91b5" />
+<img width="1892" height="874" alt="Screenshot 2026-02-11 095454" src="https://github.com/user-attachments/assets/100763e0-4d8a-493d-a7e1-dd2890a9fef2" />
+<img width="1903" height="709" alt="Screenshot 2026-02-11 095434" src="https://github.com/user-attachments/assets/fa580a5d-d965-4e00-b798-849bed97c7ca" />
+<img width="1895" height="587" alt="Screenshot 2026-02-11 095405" src="https://github.com/user-attachments/assets/01e23e91-0eca-4b7c-b70c-8b99b57ed338" />
+
   <p><i>Real-time class performance tracking and grade distribution metrics.</i></p>
   
   <br />
   
   <h3>Administrative Directory</h3>
-  <img src="https://via.placeholder.com/800x450/0f172a/10b981?text=Student+Directory+Preview" alt="Directory" />
   <p><i>Full CRUD management with inline editing and advanced search.</i></p>
 </div>
 
@@ -126,3 +130,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ---
 **Analytics Pro** - Built with ❤️ for the future of Education.
+
