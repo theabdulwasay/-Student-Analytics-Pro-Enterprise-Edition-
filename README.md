@@ -75,6 +75,8 @@ graph TD
 - **`Dashboard.jsx`**: A complex analytic hub using `recharts` to provide visual feedback on class performance.
 - **`StudentDirectory.jsx`**: An administrative panel supporting inline CRUD operations for rapid data entry.
 
+    note:
+  Run Npm install cmd on terminal for node modules
 ---
 
 ## 🚀 Getting Started
@@ -130,4 +132,5 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ---
 **Analytics Pro** - Built with ❤️ for the future of Education.
+
 
